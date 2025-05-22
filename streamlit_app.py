@@ -4,4 +4,4 @@ st.title("hola x-e")
 st.write(
     "evermore !"
 )
-st.image("
+st.image("IMG_20250521_140236_999.jpg", width=200)
